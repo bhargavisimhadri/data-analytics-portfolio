@@ -19,7 +19,7 @@ I enjoy creating dashboards and reports that drive better business decisions.
 - Created visuals showing recovery and admission rates.
 - Helped optimize hospital resource allocation.
 
-### 📦 [Logistics – Delivery Performance Analysis](./Logistics – Delivery Performance Analysis)
+### 📦 [Logistics – Delivery Performance Analysis](./Logistics – Delivery Performance Analysis).
 - Integrated SQL queries with Power BI visuals.
 - Analyzed product-wise and regional sales growth.
 
