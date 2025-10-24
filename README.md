@@ -26,9 +26,9 @@ I enjoy creating dashboards and reports that drive better business decisions.
 ---
 
 ## 🎓 Certifications
-- Data Analysis with Python (IBM)
+- Data Analysis with Python 
 - Certified Data Analyst
-- Web Development Foundation
+
 
 ---
 
