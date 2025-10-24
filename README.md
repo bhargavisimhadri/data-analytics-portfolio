@@ -14,14 +14,16 @@ I enjoy creating dashboards and reports that drive better business decisions.
 - Automated monthly reporting using Excel.
 - Improved decision-making efficiency by 40%.
 
-### 🏥 [Healthcare Data Analysis](./healthcare-analysis)
-- Used SQL and Power BI to identify trends in patient data.
-- Created visuals showing recovery and admission rates.
-- Helped optimize hospital resource allocation.
 
 ### 📦 [Logistics Delivery Performance](./logistics-delivery-performance).
 - Integrated SQL queries with Power BI visuals.
 - Analyzed product-wise and regional sales growth.
+- 
+
+### 🏥 [Healthcare Data Analysis](./healthcare-analysis)
+- Used SQL and Power BI to identify trends in patient data.
+- Created visuals showing recovery and admission rates.
+- Helped optimize hospital resource allocation.
 
 ---
 
